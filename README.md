@@ -1,4 +1,2 @@
 # lab04_ayush
-commiit 1 main file
-
-system check
+My first commit.
